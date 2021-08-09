@@ -10,6 +10,8 @@
 
 **欢迎大家在[issue](https://github.com/ds19991999/SecBox/issues/1)多多推荐好用的工具，交流学习安全相关技巧.**
 
+[![Stargazers over time](https://starchart.cc/ds19991999/SecBox.svg)](https://starchart.cc/ds19991999/SecBox)
+
 ## 目录
 
 - [入门指南](#入门指南)
